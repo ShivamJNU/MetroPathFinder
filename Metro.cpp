@@ -232,8 +232,8 @@ void assignYellowLine()
     m2[i] = "Jor Bagh";
     i++;
 
-    m1["Dilli Haat–INA"] = i;
-    m2[i] = "Dilli Haat–INA";
+    m1["Dilli Haat-INA"] = i;
+    m2[i] = "Dilli Haat-INA";
     i++;
 
     m1["AIIMS"] = i;
@@ -583,6 +583,497 @@ void assignPinkLine()
     // i equal 129 here (25+37+29+38 = 129 stations covered (0-128))
 }
 
+void assignGreenLine()
+{
+    int i = 129;
+
+    m1["Kirti Nagar"] = i;
+    m2[i] = "Kirti Nagar";
+    i++;
+
+    m1["Satguru Ram Singh Marg"] = i;
+    m2[i] = "Satguru Ram Singh Marg";
+    i++;
+
+    m1["Inderlok"] = i;
+    m2[i] = "Inderlok";
+    i++;
+
+    m1["Ashok Park Main"] = i;
+    m2[i] = "Ashok Park Main";
+    i++;
+
+    m1["Punjabi Bagh"] = i;
+    m2[i] = "Punjabi Bagh";
+    i++;
+
+    m1["Punjabi Bagh West"] = i;
+    m2[i] = "Punjabi Bagh West";
+    i++;
+
+    m1["Shivaji Park"] = i;
+    m2[i] = "Shivaji Park";
+    i++;
+
+    m1["Madipur"] = i;
+    m2[i] = "Madipur";
+    i++;
+
+    m1["Paschim Vihar East"] = i;
+    m2[i] = "Paschim Vihar East";
+    i++;
+
+    m1["Paschim Vihar West"] = i;
+    m2[i] = "Paschim Vihar West";
+    i++;
+
+    m1["Peeragarhi"] = i;
+    m2[i] = "Peeragarhi";
+    i++;
+
+    m1["Udyog Nagar"] = i;
+    m2[i] = "Udyog Nagar";
+    i++;
+
+    m1["Maharaja Surajmal Stadium"] = i;
+    m2[i] = "Maharaja Surajmal Stadium";
+    i++;
+
+    m1["Nangloi"] = i;
+    m2[i] = "Nangloi";
+    i++;
+
+    m1["Nangloi Railway Station"] = i;
+    m2[i] = "Nangloi Railway Station";
+    i++;
+
+    m1["Rajdhani Park"] = i;
+    m2[i] = "Rajdhani Park";
+    i++;
+
+    m1["Mundka"] = i;
+    m2[i] = "Mundka";
+    i++;
+
+    m1["Mundka Industrial Area (MIA)"] = i;
+    m2[i] = "Mundka Industrial Area (MIA)";
+    i++;
+
+    m1["Ghevra Metro Station"] = i;
+    m2[i] = "Ghevra Metro Station";
+    i++;
+
+    m1["Tikri Kalan"] = i;
+    m2[i] = "Tikri Kalan";
+    i++;
+
+    m1["Tikri Border"] = i;
+    m2[i] = "Tikri Border";
+    i++;
+
+    m1["Pandit Shree Ram Sharma"] = i;
+    m2[i] = "Pandit Shree Ram Sharma";
+    i++;
+
+    m1["Bahadurgarh City"] = i;
+    m2[i] = "Bahadurgarh City";
+    i++;
+
+    m1["Brig. Hoshiar Singh"] = i;
+    m2[i] = "Brig. Hoshiar Singh";
+    i++;
+
+    // i equal 153 here (25+37+29+38+24 = 153 stations covered (0-152))
+}
+
+void assignVioletLine()
+{
+    int i = 153;
+
+    m1["Kashmere Gate"] = i;
+    m2[i] = "Kashmere Gate";
+    i++;
+
+    m1["Lal Quila"] = i;
+    m2[i] = "Lal Quila";
+    i++;
+
+    m1["Jama Masjid"] = i;
+    m2[i] = "Jama Masjid";
+    i++;
+
+    m1["Delhi Gate"] = i;
+    m2[i] = "Delhi Gate";
+    i++;
+
+    m1["ITO"] = i;
+    m2[i] = "ITO";
+    i++;
+
+    m1["Mandi House"] = i;
+    m2[i] = "Mandi House";
+    i++;
+
+    m1["Janpath"] = i;
+    m2[i] = "Janpath";
+    i++;
+
+    m1["Central Secretariat"] = i;
+    m2[i] = "Central Secretariat";
+    i++;
+
+    m1["Khan Market"] = i;
+    m2[i] = "Khan Market";
+    i++;
+
+    m1["JLN Stadium"] = i;
+    m2[i] = "JLN Stadium";
+    i++;
+
+    m1["Jangpura"] = i;
+    m2[i] = "Jangpura";
+    i++;
+
+    m1["Lajpat Nagar"] = i;
+    m2[i] = "Lajpat Nagar";
+    i++;
+
+    m1["Moolchand"] = i;
+    m2[i] = "Moolchand";
+    i++;
+
+    m1["Kailash Colony"] = i;
+    m2[i] = "Kailash Colony";
+    i++;
+
+    m1["Nehru Place"] = i;
+    m2[i] = "Nehru Place";
+    i++;
+
+    m1["Kalkaji Mandir"] = i;
+    m2[i] = "Kalkaji Mandir";
+    i++;
+
+    m1["Govind Puri"] = i;
+    m2[i] = "Govind Puri";
+    i++;
+
+    m1["Harkesh Nagar Okhla"] = i;
+    m2[i] = "Harkesh Nagar Okhla";
+    i++;
+
+    m1["Jasola Apollo"] = i;
+    m2[i] = "Jasola Apollo";
+    i++;
+
+    m1["Sarita Vihar"] = i;
+    m2[i] = "Sarita Vihar";
+    i++;
+
+    m1["Mohan Estate"] = i;
+    m2[i] = "Mohan Estate";
+    i++;
+
+    m1["Tughlakabad Station"] = i;
+    m2[i] = "Tughlakabad Station";
+    i++;
+
+    m1["Badarpur Border"] = i;
+    m2[i] = "Badarpur Border";
+    i++;
+
+    m1["Sarai"] = i;
+    m2[i] = "Sarai";
+    i++;
+
+    m1["NHPC Chowk"] = i;
+    m2[i] = "NHPC Chowk";
+    i++;
+
+    m1["Mewala Maharajpur"] = i;
+    m2[i] = "Mewala Maharajpur";
+    i++;
+
+    m1["Sector-28"] = i;
+    m2[i] = "Sector-28";
+    i++;
+
+    m1["Badkal Mor"] = i;
+    m2[i] = "Badkal Mor";
+    i++;
+
+    m1["Old Faridabad"] = i;
+    m2[i] = "Old Faridabad";
+    i++;
+
+    m1["Neelam Chowk Ajronda"] = i;
+    m2[i] = "Neelam Chowk Ajronda";
+    i++;
+
+    m1["Bata Chowk"] = i;
+    m2[i] = "Bata Chowk";
+    i++;
+
+    m1["Escorts Mujesar"] = i;
+    m2[i] = "Escorts Mujesar";
+    i++;
+
+    m1["Sant Surdas (Sihi)"] = i;
+    m2[i] = "Sant Surdas (Sihi)";
+    i++;
+
+    m1["Raja Nahar Singh (Ballabhgarh)"] = i;
+    m2[i] = "Raja Nahar Singh (Ballabhgarh)";
+    i++;
+
+    // i equal 187 here (25+37+29+38+24+34 = 187 stations covered (0-186))
+}
+
+void assignBlueLine()
+{
+    int i = 187;
+    m1["Noida Electronic City"] = i;
+    m2[i] = "Noida Electronic City";
+    i++;
+
+    m1["Sec-62 Noida"] = i;
+    m2[i] = "Sec-62 Noida";
+    i++;
+
+    m1["Sec-59 Noida"] = i;
+    m2[i] = "Sec-59 Noida";
+    i++;
+
+    m1["Sec-61 Noida"] = i;
+    m2[i] = "Sec-61 Noida";
+    i++;
+
+    m1["Sec-52 Noida"] = i;
+    m2[i] = "Sec-52 Noida";
+    i++;
+
+    m1["Sec-34 Noida"] = i;
+    m2[i] = "Sec-34 Noida";
+    i++;
+
+    m1["Noida City Centre"] = i;
+    m2[i] = "Noida City Centre";
+    i++;
+
+    m1["Golf Course"] = i;
+    m2[i] = "Golf Course";
+    i++;
+
+    m1["Botanical Garden"] = i;
+    m2[i] = "Botanical Garden";
+    i++;
+
+    m1["Noida Sec-18"] = i;
+    m2[i] = "Noida Sec-18";
+    i++;
+
+    m1["Noida Sec-16"] = i;
+    m2[i] = "Noida Sec-16";
+    i++;
+
+    m1["Noida Sec-15"] = i;
+    m2[i] = "Noida Sec-15";
+    i++;
+
+    m1["New Ashok Nagar"] = i;
+    m2[i] = "New Ashok Nagar";
+    i++;
+
+    m1["Mayur Vihar Extension"] = i;
+    m2[i] = "Mayur Vihar Extension";
+    i++;
+
+    m1["Mayur Vihar-1"] = i;
+    m2[i] = "Mayur Vihar-1";
+    i++;
+
+    m1["Akshardham"] = i;
+    m2[i] = "Akshardham";
+    i++;
+
+    m1["Yamuna Bank"] = i;
+    m2[i] = "Yamuna Bank";
+    i++;
+
+    m1["Indraprastha"] = i;
+    m2[i] = "Indraprastha";
+    i++;
+
+    m1["Supreme Court"] = i;
+    m2[i] = "Supreme Court";
+    i++;
+
+    m1["Mandi House"] = i;
+    m2[i] = "Mandi House";
+    i++;
+
+    m1["Barakhamba Road"] = i;
+    m2[i] = "Barakhamba Road";
+    i++;
+
+    m1["Rajiv Chowk"] = i;
+    m2[i] = "Rajiv Chowk";
+    i++;
+
+    m1["Ramakrishna Ashram Marg"] = i;
+    m2[i] = "Ramakrishna Ashram Marg";
+    i++;
+
+    m1["Jhandewalan"] = i;
+    m2[i] = "Jhandewalan";
+    i++;
+
+    m1["Karol Bagh"] = i;
+    m2[i] = "Karol Bagh";
+    i++;
+
+    m1["Rajendra Place"] = i;
+    m2[i] = "Rajendra Place";
+    i++;
+
+    m1["Patel Nagar"] = i;
+    m2[i] = "Patel Nagar";
+    i++;
+
+    m1["Shadipur"] = i;
+    m2[i] = "Shadipur";
+    i++;
+
+    m1["Kirti Nagar"] = i;
+    m2[i] = "Kirti Nagar";
+    i++;
+
+    m1["Moti Nagar"] = i;
+    m2[i] = "Moti Nagar";
+    i++;
+
+    m1["Ramesh Nagar"] = i;
+    m2[i] = "Ramesh Nagar";
+    i++;
+
+    m1["Rajouri Garden"] = i;
+    m2[i] = "Rajouri Garden";
+    i++;
+
+    m1["Tagore Garden"] = i;
+    m2[i] = "Tagore Garden";
+    i++;
+
+    m1["Subhash Nagar"] = i;
+    m2[i] = "Subhash Nagar";
+    i++;
+
+    m1["Tilak Nagar"] = i;
+    m2[i] = "Tilak Nagar";
+    i++;
+
+    m1["Janakpuri East"] = i;
+    m2[i] = "Janakpuri East";
+    i++;
+
+    m1["Janakpuri West"] = i;
+    m2[i] = "Janakpuri West";
+    i++;
+
+    m1["Uttam Nagar East"] = i;
+    m2[i] = "Uttam Nagar East";
+    i++;
+
+    m1["Uttam Nagar West"] = i;
+    m2[i] = "Uttam Nagar West";
+    i++;
+
+    m1["Nawada"] = i;
+    m2[i] = "Nawada";
+    i++;
+
+    m1["Dwarka Mor"] = i;
+    m2[i] = "Dwarka Mor";
+    i++;
+
+    m1["Dwarka"] = i;
+    m2[i] = "Dwarka";
+    i++;
+
+    m1["Dwarka Sector-14"] = i;
+    m2[i] = "Dwarka Sector-14";
+    i++;
+
+    m1["Dwarka Sector-13"] = i;
+    m2[i] = "Dwarka Sector-13";
+    i++;
+
+    m1["Dwarka Sector-12"] = i;
+    m2[i] = "Dwarka Sector-12";
+    i++;
+
+    m1["Dwarka Sector-11"] = i;
+    m2[i] = "Dwarka Sector-11";
+    i++;
+
+    m1["Dwarka Sector-10"] = i;
+    m2[i] = "Dwarka Sector-10";
+    i++;
+
+    m1["Dwarka Sector-9"] = i;
+    m2[i] = "Dwarka Sector-9";
+    i++;
+
+    m1["Dwarka Sector-8"] = i;
+    m2[i] = "Dwarka Sector-8";
+    i++;
+
+    m1["Dwarka Sector-21"] = i;
+    m2[i] = "Dwarka Sector-21";
+    i++;
+
+    // i equal 237 here (25+37+29+38+24+34+50 = 237 stations covered (0-236))
+}
+
+void assignBlueLineBranch()
+{
+
+    int i = 237;
+    m1["Yamuna Bank"] = i;
+    m2[i] = "Yamuna Bank";
+    i++;
+
+    m1["Laxmi Nagar"] = i;
+    m2[i] = "Laxmi Nagar";
+    i++;
+
+    m1["Nirman Vihar"] = i;
+    m2[i] = "Nirman Vihar";
+    i++;
+
+    m1["Preet Vihar"] = i;
+    m2[i] = "Preet Vihar";
+    i++;
+
+    m1["Karkarduma"] = i;
+    m2[i] = "Karkarduma";
+    i++;
+
+    m1["Anand Vihar I.S.B.T."] = i;
+    m2[i] = "Anand Vihar I.S.B.T.";
+    i++;
+
+    m1["Kaushambi"] = i;
+    m2[i] = "Kaushambi";
+    i++;
+
+    m1["Vaishali"] = i;
+    m2[i] = "Vaishali";
+    i++;
+
+    // i equal 245 here (25+37+29+38+24+34+50+8 = 245 stations covered (0-244))
+}
+
 // Assigning Distances:
 void internalGraphMagentaLine()
 {
@@ -765,13 +1256,13 @@ void internalGraphYellowLine()
 
     graphDist.push_back({m1["Jor Bagh"], m1["Lok Kalyan Marg"], 1});
 
-    graphDist.push_back({m1["Jor Bagh"], m1["Dilli Haat–INA"], 1});
+    graphDist.push_back({m1["Jor Bagh"], m1["Dilli Haat-INA"], 1});
 
-    graphDist.push_back({m1["Dilli Haat–INA"], m1["Jor Bagh"], 1});
+    graphDist.push_back({m1["Dilli Haat-INA"], m1["Jor Bagh"], 1});
 
-    graphDist.push_back({m1["Dilli Haat–INA"], m1["AIIMS"], 1});
+    graphDist.push_back({m1["Dilli Haat-INA"], m1["AIIMS"], 1});
 
-    graphDist.push_back({m1["AIIMS"], m1["Dilli Haat–INA"], 1});
+    graphDist.push_back({m1["AIIMS"], m1["Dilli Haat-INA"], 1});
 
     graphDist.push_back({m1["AIIMS"], m1["Green Park"], 1});
 
@@ -896,34 +1387,30 @@ vector<int> shortestPath(int n, int src, int dst)
 signed main()
 {
 
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
+    // assignMagentaLine();
+    // assignYellowLine();
 
-    assignMagentaLine();
-    assignYellowLine();
+    // internalGraphMagentaLine();
+    // internalGraphYellowLine();
 
-    internalGraphMagentaLine();
-    internalGraphYellowLine();
+    // string src;
+    // getline(cin, src);
 
-    string src;
-    getline(cin, src);
+    // string dst;
+    // getline(cin, dst);
 
-    string dst;
-    getline(cin, dst);
+    // vector<int> path = shortestPath(300, m1[src], m1[dst]);
 
-    vector<int> path = shortestPath(300, m1[src], m1[dst]);
+    // for (int i = 0; i < path.size(); i++)
+    // {
+    //     cout << m2[path[i]];
 
-    for (int i = 0; i < path.size(); i++)
-    {
-        cout << m2[path[i]];
-
-        if (i < path.size() - 1)
-        {
-            cout << "-->";
-        }
-    }
-    cout << endl;
+    //     if (i < path.size() - 1)
+    //     {
+    //         cout << "-->";
+    //     }
+    // }
+    // cout << endl;
 
     return 0;
 }
