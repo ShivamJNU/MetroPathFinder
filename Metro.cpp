@@ -2124,6 +2124,12 @@ signed main()
     string dst;
     getline(cin, dst);
 
+    if (m1.find(src) == m1.end() || m1.find(dst) == m1.end())
+    {
+        cout << "No Path Exist" << endl;
+        return 0;
+    }
+
     vector<int> path = shortestPath(300, m1[src], m1[dst]);
 
     if (path[0] == -1)
