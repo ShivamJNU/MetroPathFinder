@@ -2299,363 +2299,363 @@ void timeYellowLine()
 
 void timeRedLine()
 {
-    graphTime.push_back({m1["Shaheed Sthal (New Bus Adda)"], m1["Hindon River"], 1});
+    graphTime.push_back({m1["Shaheed Sthal (New Bus Adda)"], m1["Hindon River"], 2});
 
-    graphTime.push_back({m1["Hindon River"], m1["Shaheed Sthal (New Bus Adda)"], 1});
+    graphTime.push_back({m1["Hindon River"], m1["Shaheed Sthal (New Bus Adda)"], 2});
 
-    graphTime.push_back({m1["Hindon River"], m1["Arthala"], 1});
+    graphTime.push_back({m1["Hindon River"], m1["Arthala"], 2});
 
-    graphTime.push_back({m1["Arthala"], m1["Hindon River"], 1});
+    graphTime.push_back({m1["Arthala"], m1["Hindon River"], 2});
 
-    graphTime.push_back({m1["Arthala"], m1["Mohan Nagar"], 1});
+    graphTime.push_back({m1["Arthala"], m1["Mohan Nagar"], 2});
 
-    graphTime.push_back({m1["Mohan Nagar"], m1["Arthala"], 1});
+    graphTime.push_back({m1["Mohan Nagar"], m1["Arthala"], 2});
 
-    graphTime.push_back({m1["Mohan Nagar"], m1["Shyam Park"], 1});
+    graphTime.push_back({m1["Mohan Nagar"], m1["Shyam Park"], 2});
 
-    graphTime.push_back({m1["Shyam Park"], m1["Mohan Nagar"], 1});
+    graphTime.push_back({m1["Shyam Park"], m1["Mohan Nagar"], 2});
 
-    graphTime.push_back({m1["Shyam Park"], m1["Major Mohit Sharma Rajendra Nagar"], 1});
+    graphTime.push_back({m1["Shyam Park"], m1["Major Mohit Sharma Rajendra Nagar"], 4});
 
-    graphTime.push_back({m1["Major Mohit Sharma Rajendra Nagar"], m1["Shyam Park"], 1});
+    graphTime.push_back({m1["Major Mohit Sharma Rajendra Nagar"], m1["Shyam Park"], 4});
 
-    graphTime.push_back({m1["Major Mohit Sharma Rajendra Nagar"], m1["Raj Bagh"], 1});
+    graphTime.push_back({m1["Major Mohit Sharma Rajendra Nagar"], m1["Raj Bagh"], 2});
 
-    graphTime.push_back({m1["Raj Bagh"], m1["Major Mohit Sharma Rajendra Nagar"], 1});
+    graphTime.push_back({m1["Raj Bagh"], m1["Major Mohit Sharma Rajendra Nagar"], 2});
 
-    graphTime.push_back({m1["Raj Bagh"], m1["Shaheed Nagar"], 1});
+    graphTime.push_back({m1["Raj Bagh"], m1["Shaheed Nagar"], 2});
 
-    graphTime.push_back({m1["Shaheed Nagar"], m1["Raj Bagh"], 1});
+    graphTime.push_back({m1["Shaheed Nagar"], m1["Raj Bagh"], 2});
 
-    graphTime.push_back({m1["Shaheed Nagar"], m1["Dilshad Garden"], 1});
+    graphTime.push_back({m1["Shaheed Nagar"], m1["Dilshad Garden"], 2});
 
-    graphTime.push_back({m1["Dilshad Garden"], m1["Shaheed Nagar"], 1});
+    graphTime.push_back({m1["Dilshad Garden"], m1["Shaheed Nagar"], 2});
 
-    graphTime.push_back({m1["Dilshad Garden"], m1["Jhilmil"], 1});
+    graphTime.push_back({m1["Dilshad Garden"], m1["Jhilmil"], 2});
 
-    graphTime.push_back({m1["Jhilmil"], m1["Dilshad Garden"], 1});
+    graphTime.push_back({m1["Jhilmil"], m1["Dilshad Garden"], 2});
 
-    graphTime.push_back({m1["Jhilmil"], m1["Mansarovar Park"], 1});
+    graphTime.push_back({m1["Jhilmil"], m1["Mansarovar Park"], 2});
 
-    graphTime.push_back({m1["Mansarovar Park"], m1["Jhilmil"], 1});
+    graphTime.push_back({m1["Mansarovar Park"], m1["Jhilmil"], 2});
 
-    graphTime.push_back({m1["Mansarovar Park"], m1["Shahdara"], 1});
+    graphTime.push_back({m1["Mansarovar Park"], m1["Shahdara"], 2});
 
-    graphTime.push_back({m1["Shahdara"], m1["Mansarovar Park"], 1});
+    graphTime.push_back({m1["Shahdara"], m1["Mansarovar Park"], 2});
 
-    graphTime.push_back({m1["Shahdara"], m1["Welcome"], 1});
+    graphTime.push_back({m1["Shahdara"], m1["Welcome"], 2});
 
-    graphTime.push_back({m1["Welcome"], m1["Shahdara"], 1});
+    graphTime.push_back({m1["Welcome"], m1["Shahdara"], 2});
 
-    graphTime.push_back({m1["Welcome"], m1["Seelampur"], 1});
+    graphTime.push_back({m1["Welcome"], m1["Seelampur"], 2});
 
-    graphTime.push_back({m1["Seelampur"], m1["Welcome"], 1});
+    graphTime.push_back({m1["Seelampur"], m1["Welcome"], 2});
 
-    graphTime.push_back({m1["Seelampur"], m1["Shastri Park"], 1});
+    graphTime.push_back({m1["Seelampur"], m1["Shastri Park"], 2});
 
-    graphTime.push_back({m1["Shastri Park"], m1["Seelampur"], 1});
+    graphTime.push_back({m1["Shastri Park"], m1["Seelampur"], 2});
 
-    graphTime.push_back({m1["Shastri Park"], m1["Kashmere Gate"], 1});
+    graphTime.push_back({m1["Shastri Park"], m1["Kashmere Gate"], 3});
 
-    graphTime.push_back({m1["Kashmere Gate"], m1["Shastri Park"], 1});
+    graphTime.push_back({m1["Kashmere Gate"], m1["Shastri Park"], 3});
 
-    graphTime.push_back({m1["Kashmere Gate"], m1["Tis Hazari"], 1});
+    graphTime.push_back({m1["Kashmere Gate"], m1["Tis Hazari"], 2});
 
-    graphTime.push_back({m1["Tis Hazari"], m1["Kashmere Gate"], 1});
+    graphTime.push_back({m1["Tis Hazari"], m1["Kashmere Gate"], 2});
 
-    graphTime.push_back({m1["Tis Hazari"], m1["Pulbangash"], 1});
+    graphTime.push_back({m1["Tis Hazari"], m1["Pulbangash"], 2});
 
-    graphTime.push_back({m1["Pulbangash"], m1["Tis Hazari"], 1});
+    graphTime.push_back({m1["Pulbangash"], m1["Tis Hazari"], 2});
 
-    graphTime.push_back({m1["Pulbangash"], m1["Pratap Nagar"], 1});
+    graphTime.push_back({m1["Pulbangash"], m1["Pratap Nagar"], 2});
 
-    graphTime.push_back({m1["Pratap Nagar"], m1["Pulbangash"], 1});
+    graphTime.push_back({m1["Pratap Nagar"], m1["Pulbangash"], 2});
 
-    graphTime.push_back({m1["Pratap Nagar"], m1["Shastri Nagar"], 1});
+    graphTime.push_back({m1["Pratap Nagar"], m1["Shastri Nagar"], 2});
 
-    graphTime.push_back({m1["Shastri Nagar"], m1["Pratap Nagar"], 1});
+    graphTime.push_back({m1["Shastri Nagar"], m1["Pratap Nagar"], 2});
 
-    graphTime.push_back({m1["Shastri Nagar"], m1["Inderlok"], 1});
+    graphTime.push_back({m1["Shastri Nagar"], m1["Inderlok"], 2});
 
-    graphTime.push_back({m1["Inderlok"], m1["Shastri Nagar"], 1});
+    graphTime.push_back({m1["Inderlok"], m1["Shastri Nagar"], 2});
 
-    graphTime.push_back({m1["Inderlok"], m1["Kanhaiya Nagar"], 1});
+    graphTime.push_back({m1["Inderlok"], m1["Kanhaiya Nagar"], 2});
 
-    graphTime.push_back({m1["Kanhaiya Nagar"], m1["Inderlok"], 1});
+    graphTime.push_back({m1["Kanhaiya Nagar"], m1["Inderlok"], 2});
 
-    graphTime.push_back({m1["Kanhaiya Nagar"], m1["Keshav Puram"], 1});
+    graphTime.push_back({m1["Kanhaiya Nagar"], m1["Keshav Puram"], 2});
 
-    graphTime.push_back({m1["Keshav Puram"], m1["Kanhaiya Nagar"], 1});
+    graphTime.push_back({m1["Keshav Puram"], m1["Kanhaiya Nagar"], 2});
 
-    graphTime.push_back({m1["Keshav Puram"], m1["Netaji Subhash Place"], 1});
+    graphTime.push_back({m1["Keshav Puram"], m1["Netaji Subhash Place"], 2});
 
-    graphTime.push_back({m1["Netaji Subhash Place"], m1["Keshav Puram"], 1});
+    graphTime.push_back({m1["Netaji Subhash Place"], m1["Keshav Puram"], 2});
 
-    graphTime.push_back({m1["Netaji Subhash Place"], m1["Kohat Enclave"], 1});
+    graphTime.push_back({m1["Netaji Subhash Place"], m1["Kohat Enclave"], 2});
 
-    graphTime.push_back({m1["Kohat Enclave"], m1["Netaji Subhash Place"], 1});
+    graphTime.push_back({m1["Kohat Enclave"], m1["Netaji Subhash Place"], 2});
 
-    graphTime.push_back({m1["Kohat Enclave"], m1["Pitampura"], 1});
+    graphTime.push_back({m1["Kohat Enclave"], m1["Pitampura"], 2});
 
-    graphTime.push_back({m1["Pitampura"], m1["Kohat Enclave"], 1});
+    graphTime.push_back({m1["Pitampura"], m1["Kohat Enclave"], 2});
 
-    graphTime.push_back({m1["Pitampura"], m1["Rohini East"], 1});
+    graphTime.push_back({m1["Pitampura"], m1["Rohini East"], 2});
 
-    graphTime.push_back({m1["Rohini East"], m1["Pitampura"], 1});
+    graphTime.push_back({m1["Rohini East"], m1["Pitampura"], 2});
 
-    graphTime.push_back({m1["Rohini East"], m1["Rohini West"], 1});
+    graphTime.push_back({m1["Rohini East"], m1["Rohini West"], 2});
 
-    graphTime.push_back({m1["Rohini West"], m1["Rohini East"], 1});
+    graphTime.push_back({m1["Rohini West"], m1["Rohini East"], 2});
 
-    graphTime.push_back({m1["Rohini West"], m1["Rithala"], 1});
+    graphTime.push_back({m1["Rohini West"], m1["Rithala"], 2});
 
-    graphTime.push_back({m1["Rithala"], m1["Rohini West"], 1});
+    graphTime.push_back({m1["Rithala"], m1["Rohini West"], 2});
 }
 
 void timePinkLine()
 {
-    graphTime.push_back({m1["Majlis Park"], m1["Azadpur"], 1});
+    graphTime.push_back({m1["Majlis Park"], m1["Azadpur"], 4});
 
-    graphTime.push_back({m1["Azadpur"], m1["Majlis Park"], 1});
+    graphTime.push_back({m1["Azadpur"], m1["Majlis Park"], 4});
 
-    graphTime.push_back({m1["Azadpur"], m1["Shalimar Bagh"], 1});
+    graphTime.push_back({m1["Azadpur"], m1["Shalimar Bagh"], 3});
 
-    graphTime.push_back({m1["Shalimar Bagh"], m1["Azadpur"], 1});
+    graphTime.push_back({m1["Shalimar Bagh"], m1["Azadpur"], 3});
 
-    graphTime.push_back({m1["Shalimar Bagh"], m1["Netaji Subhash Place"], 1});
+    graphTime.push_back({m1["Shalimar Bagh"], m1["Netaji Subhash Place"], 3});
 
-    graphTime.push_back({m1["Netaji Subhash Place"], m1["Shalimar Bagh"], 1});
+    graphTime.push_back({m1["Netaji Subhash Place"], m1["Shalimar Bagh"], 3});
 
-    graphTime.push_back({m1["Netaji Subhash Place"], m1["Shakurpur"], 1});
+    graphTime.push_back({m1["Netaji Subhash Place"], m1["Shakurpur"], 3});
 
-    graphTime.push_back({m1["Shakurpur"], m1["Netaji Subhash Place"], 1});
+    graphTime.push_back({m1["Shakurpur"], m1["Netaji Subhash Place"], 3});
 
-    graphTime.push_back({m1["Shakurpur"], m1["Punjabi Bagh West"], 1});
+    graphTime.push_back({m1["Shakurpur"], m1["Punjabi Bagh West"], 3});
 
-    graphTime.push_back({m1["Punjabi Bagh West"], m1["Shakurpur"], 1});
+    graphTime.push_back({m1["Punjabi Bagh West"], m1["Shakurpur"], 3});
 
-    graphTime.push_back({m1["Punjabi Bagh West"], m1["ESI-Basaidarapur"], 1});
+    graphTime.push_back({m1["Punjabi Bagh West"], m1["ESI-Basaidarapur"], 3});
 
-    graphTime.push_back({m1["ESI-Basaidarapur"], m1["Punjabi Bagh West"], 1});
+    graphTime.push_back({m1["ESI-Basaidarapur"], m1["Punjabi Bagh West"], 3});
 
-    graphTime.push_back({m1["ESI-Basaidarapur"], m1["Rajouri Garden"], 1});
+    graphTime.push_back({m1["ESI-Basaidarapur"], m1["Rajouri Garden"], 2});
 
-    graphTime.push_back({m1["Rajouri Garden"], m1["ESI-Basaidarapur"], 1});
+    graphTime.push_back({m1["Rajouri Garden"], m1["ESI-Basaidarapur"], 2});
 
-    graphTime.push_back({m1["Rajouri Garden"], m1["Mayapuri"], 1});
+    graphTime.push_back({m1["Rajouri Garden"], m1["Mayapuri"], 3});
 
-    graphTime.push_back({m1["Mayapuri"], m1["Rajouri Garden"], 1});
+    graphTime.push_back({m1["Mayapuri"], m1["Rajouri Garden"], 3});
 
-    graphTime.push_back({m1["Mayapuri"], m1["Naraina Vihar"], 1});
+    graphTime.push_back({m1["Mayapuri"], m1["Naraina Vihar"], 3});
 
-    graphTime.push_back({m1["Naraina Vihar"], m1["Mayapuri"], 1});
+    graphTime.push_back({m1["Naraina Vihar"], m1["Mayapuri"], 3});
 
-    graphTime.push_back({m1["Naraina Vihar"], m1["Delhi Cantt"], 1});
+    graphTime.push_back({m1["Naraina Vihar"], m1["Delhi Cantt"], 3});
 
-    graphTime.push_back({m1["Delhi Cantt"], m1["Naraina Vihar"], 1});
+    graphTime.push_back({m1["Delhi Cantt"], m1["Naraina Vihar"], 3});
 
-    graphTime.push_back({m1["Delhi Cantt"], m1["Durgabai Deshmukh South Campus"], 1});
+    graphTime.push_back({m1["Delhi Cantt"], m1["Durgabai Deshmukh South Campus"], 5});
 
-    graphTime.push_back({m1["Durgabai Deshmukh South Campus"], m1["Delhi Cantt"], 1});
+    graphTime.push_back({m1["Durgabai Deshmukh South Campus"], m1["Delhi Cantt"], 5});
 
-    graphTime.push_back({m1["Durgabai Deshmukh South Campus"], m1["Sir M.Vishweshwaraiah Moti Bagh"], 1});
+    graphTime.push_back({m1["Durgabai Deshmukh South Campus"], m1["Sir M.Vishweshwaraiah Moti Bagh"], 3});
 
-    graphTime.push_back({m1["Sir M.Vishweshwaraiah Moti Bagh"], m1["Durgabai Deshmukh South Campus"], 1});
+    graphTime.push_back({m1["Sir M.Vishweshwaraiah Moti Bagh"], m1["Durgabai Deshmukh South Campus"], 3});
 
-    graphTime.push_back({m1["Sir M.Vishweshwaraiah Moti Bagh"], m1["Bhikaji Cama Place"], 1});
+    graphTime.push_back({m1["Sir M.Vishweshwaraiah Moti Bagh"], m1["Bhikaji Cama Place"], 3});
 
-    graphTime.push_back({m1["Bhikaji Cama Place"], m1["Sir M.Vishweshwaraiah Moti Bagh"], 1});
+    graphTime.push_back({m1["Bhikaji Cama Place"], m1["Sir M.Vishweshwaraiah Moti Bagh"], 3});
 
-    graphTime.push_back({m1["Bhikaji Cama Place"], m1["Sarojini Nagar"], 1});
+    graphTime.push_back({m1["Bhikaji Cama Place"], m1["Sarojini Nagar"], 2});
 
-    graphTime.push_back({m1["Sarojini Nagar"], m1["Bhikaji Cama Place"], 1});
+    graphTime.push_back({m1["Sarojini Nagar"], m1["Bhikaji Cama Place"], 2});
 
-    graphTime.push_back({m1["Sarojini Nagar"], m1["Dilli Haat-INA"], 1});
+    graphTime.push_back({m1["Sarojini Nagar"], m1["Dilli Haat-INA"], 2});
 
-    graphTime.push_back({m1["Dilli Haat-INA"], m1["Sarojini Nagar"], 1});
+    graphTime.push_back({m1["Dilli Haat-INA"], m1["Sarojini Nagar"], 2});
 
-    graphTime.push_back({m1["Dilli Haat-INA"], m1["South Extension"], 1});
+    graphTime.push_back({m1["Dilli Haat-INA"], m1["South Extension"], 2});
 
-    graphTime.push_back({m1["South Extension"], m1["Dilli Haat-INA"], 1});
+    graphTime.push_back({m1["South Extension"], m1["Dilli Haat-INA"], 2});
 
-    graphTime.push_back({m1["South Extension"], m1["Lajpat Nagar"], 1});
+    graphTime.push_back({m1["South Extension"], m1["Lajpat Nagar"], 3});
 
-    graphTime.push_back({m1["Lajpat Nagar"], m1["South Extension"], 1});
+    graphTime.push_back({m1["Lajpat Nagar"], m1["South Extension"], 3});
 
-    graphTime.push_back({m1["Lajpat Nagar"], m1["Vinobapuri"], 1});
+    graphTime.push_back({m1["Lajpat Nagar"], m1["Vinobapuri"], 3});
 
-    graphTime.push_back({m1["Vinobapuri"], m1["Lajpat Nagar"], 1});
+    graphTime.push_back({m1["Vinobapuri"], m1["Lajpat Nagar"], 3});
 
-    graphTime.push_back({m1["Vinobapuri"], m1["Ashram"], 1});
+    graphTime.push_back({m1["Vinobapuri"], m1["Ashram"], 3});
 
-    graphTime.push_back({m1["Ashram"], m1["Vinobapuri"], 1});
+    graphTime.push_back({m1["Ashram"], m1["Vinobapuri"], 3});
 
-    graphTime.push_back({m1["Ashram"], m1["Sarai Kale Khan Nizamuddin"], 1});
+    graphTime.push_back({m1["Ashram"], m1["Sarai Kale Khan Nizamuddin"], 3});
 
-    graphTime.push_back({m1["Sarai Kale Khan Nizamuddin"], m1["Ashram"], 1});
+    graphTime.push_back({m1["Sarai Kale Khan Nizamuddin"], m1["Ashram"], 3});
 
-    graphTime.push_back({m1["Sarai Kale Khan Nizamuddin"], m1["Mayur Vihar-1"], 1});
+    graphTime.push_back({m1["Sarai Kale Khan Nizamuddin"], m1["Mayur Vihar-1"], 5});
 
-    graphTime.push_back({m1["Mayur Vihar-1"], m1["Sarai Kale Khan Nizamuddin"], 1});
+    graphTime.push_back({m1["Mayur Vihar-1"], m1["Sarai Kale Khan Nizamuddin"], 5});
 
-    graphTime.push_back({m1["Mayur Vihar-1"], m1["Mayur Vihar Pocket-1"], 1});
+    graphTime.push_back({m1["Mayur Vihar-1"], m1["Mayur Vihar Pocket-1"], 2});
 
-    graphTime.push_back({m1["Mayur Vihar Pocket-1"], m1["Mayur Vihar-1"], 1});
+    graphTime.push_back({m1["Mayur Vihar Pocket-1"], m1["Mayur Vihar-1"], 2});
 
-    graphTime.push_back({m1["Mayur Vihar Pocket-1"], m1["Trilokpuri-Sanjay Lake"], 1});
+    graphTime.push_back({m1["Mayur Vihar Pocket-1"], m1["Trilokpuri-Sanjay Lake"], 6});
 
-    graphTime.push_back({m1["Trilokpuri-Sanjay Lake"], m1["Mayur Vihar Pocket-1"], 1});
+    graphTime.push_back({m1["Trilokpuri-Sanjay Lake"], m1["Mayur Vihar Pocket-1"], 6});
 
-    graphTime.push_back({m1["Trilokpuri-Sanjay Lake"], m1["East Vinod Nagar-Mayur Vihar-II"], 1});
+    graphTime.push_back({m1["Trilokpuri-Sanjay Lake"], m1["East Vinod Nagar-Mayur Vihar-II"], 2});
 
-    graphTime.push_back({m1["East Vinod Nagar-Mayur Vihar-II"], m1["Trilokpuri-Sanjay Lake"], 1});
+    graphTime.push_back({m1["East Vinod Nagar-Mayur Vihar-II"], m1["Trilokpuri-Sanjay Lake"], 2});
 
-    graphTime.push_back({m1["East Vinod Nagar-Mayur Vihar-II"], m1["Mandawali West Vinod Nagar"], 1});
+    graphTime.push_back({m1["East Vinod Nagar-Mayur Vihar-II"], m1["Mandawali West Vinod Nagar"], 2});
 
-    graphTime.push_back({m1["Mandawali West Vinod Nagar"], m1["East Vinod Nagar-Mayur Vihar-II"], 1});
+    graphTime.push_back({m1["Mandawali West Vinod Nagar"], m1["East Vinod Nagar-Mayur Vihar-II"], 2});
 
-    graphTime.push_back({m1["Mandawali West Vinod Nagar"], m1["IP Extension"], 1});
+    graphTime.push_back({m1["Mandawali West Vinod Nagar"], m1["IP Extension"], 3});
 
-    graphTime.push_back({m1["IP Extension"], m1["Mandawali West Vinod Nagar"], 1});
+    graphTime.push_back({m1["IP Extension"], m1["Mandawali West Vinod Nagar"], 3});
 
-    graphTime.push_back({m1["IP Extension"], m1["Anand Vihar I.S.B.T."], 1});
+    graphTime.push_back({m1["IP Extension"], m1["Anand Vihar I.S.B.T."], 4});
 
-    graphTime.push_back({m1["Anand Vihar I.S.B.T."], m1["IP Extension"], 1});
+    graphTime.push_back({m1["Anand Vihar I.S.B.T."], m1["IP Extension"], 4});
 
-    graphTime.push_back({m1["Anand Vihar I.S.B.T."], m1["Karkarduma"], 1});
+    graphTime.push_back({m1["Anand Vihar I.S.B.T."], m1["Karkarduma"], 2});
 
-    graphTime.push_back({m1["Karkarduma"], m1["Anand Vihar I.S.B.T."], 1});
+    graphTime.push_back({m1["Karkarduma"], m1["Anand Vihar I.S.B.T."], 2});
 
-    graphTime.push_back({m1["Karkarduma"], m1["Karkarduma Court"], 1});
+    graphTime.push_back({m1["Karkarduma"], m1["Karkarduma Court"], 2});
 
-    graphTime.push_back({m1["Karkarduma Court"], m1["Karkarduma"], 1});
+    graphTime.push_back({m1["Karkarduma Court"], m1["Karkarduma"], 2});
 
-    graphTime.push_back({m1["Karkarduma Court"], m1["Krishna Nagar"], 1});
+    graphTime.push_back({m1["Karkarduma Court"], m1["Krishna Nagar"], 2});
 
-    graphTime.push_back({m1["Krishna Nagar"], m1["Karkarduma Court"], 1});
+    graphTime.push_back({m1["Krishna Nagar"], m1["Karkarduma Court"], 2});
 
-    graphTime.push_back({m1["Krishna Nagar"], m1["East Azad Nagar"], 1});
+    graphTime.push_back({m1["Krishna Nagar"], m1["East Azad Nagar"], 2});
 
-    graphTime.push_back({m1["East Azad Nagar"], m1["Krishna Nagar"], 1});
+    graphTime.push_back({m1["East Azad Nagar"], m1["Krishna Nagar"], 2});
 
-    graphTime.push_back({m1["East Azad Nagar"], m1["Welcome"], 1});
+    graphTime.push_back({m1["East Azad Nagar"], m1["Welcome"], 2});
 
-    graphTime.push_back({m1["Welcome"], m1["East Azad Nagar"], 1});
+    graphTime.push_back({m1["Welcome"], m1["East Azad Nagar"], 2});
 
-    graphTime.push_back({m1["Welcome"], m1["Jafrabad"], 1});
+    graphTime.push_back({m1["Welcome"], m1["Jafrabad"], 3});
 
-    graphTime.push_back({m1["Jafrabad"], m1["Welcome"], 1});
+    graphTime.push_back({m1["Jafrabad"], m1["Welcome"], 3});
 
-    graphTime.push_back({m1["Jafrabad"], m1["Maujpur-Babarpur"], 1});
+    graphTime.push_back({m1["Jafrabad"], m1["Maujpur-Babarpur"], 2});
 
-    graphTime.push_back({m1["Maujpur-Babarpur"], m1["Jafrabad"], 1});
+    graphTime.push_back({m1["Maujpur-Babarpur"], m1["Jafrabad"], 2});
 
-    graphTime.push_back({m1["Maujpur-Babarpur"], m1["Gokulpuri"], 1});
+    graphTime.push_back({m1["Maujpur-Babarpur"], m1["Gokulpuri"], 2});
 
-    graphTime.push_back({m1["Gokulpuri"], m1["Maujpur-Babarpur"], 1});
+    graphTime.push_back({m1["Gokulpuri"], m1["Maujpur-Babarpur"], 2});
 
-    graphTime.push_back({m1["Gokulpuri"], m1["Johri Enclave"], 1});
+    graphTime.push_back({m1["Gokulpuri"], m1["Johri Enclave"], 2});
 
-    graphTime.push_back({m1["Johri Enclave"], m1["Gokulpuri"], 1});
+    graphTime.push_back({m1["Johri Enclave"], m1["Gokulpuri"], 2});
 
-    graphTime.push_back({m1["Johri Enclave"], m1["Shiv Vihar"], 1});
+    graphTime.push_back({m1["Johri Enclave"], m1["Shiv Vihar"], 2});
 
-    graphTime.push_back({m1["Shiv Vihar"], m1["Johri Enclave"], 1});
+    graphTime.push_back({m1["Shiv Vihar"], m1["Johri Enclave"], 2});
 }
 
 void timeGreenLine()
 {
-    graphTime.push_back({m1["Kirti Nagar"], m1["Satguru Ram Singh Marg"], 1});
+    graphTime.push_back({m1["Kirti Nagar"], m1["Satguru Ram Singh Marg"], 2});
 
-    graphTime.push_back({m1["Satguru Ram Singh Marg"], m1["Kirti Nagar"], 1});
+    graphTime.push_back({m1["Satguru Ram Singh Marg"], m1["Kirti Nagar"], 2});
 
-    graphTime.push_back({m1["Satguru Ram Singh Marg"], m1["Inderlok"], 1});
+    graphTime.push_back({m1["Satguru Ram Singh Marg"], m1["Inderlok"], 11});
 
-    graphTime.push_back({m1["Inderlok"], m1["Satguru Ram Singh Marg"], 1});
+    graphTime.push_back({m1["Inderlok"], m1["Satguru Ram Singh Marg"], 11});
 
-    graphTime.push_back({m1["Inderlok"], m1["Ashok Park Main"], 1});
+    graphTime.push_back({m1["Inderlok"], m1["Ashok Park Main"], 3});
 
-    graphTime.push_back({m1["Ashok Park Main"], m1["Inderlok"], 1});
+    graphTime.push_back({m1["Ashok Park Main"], m1["Inderlok"], 3});
 
-    graphTime.push_back({m1["Ashok Park Main"], m1["Punjabi Bagh"], 1});
+    graphTime.push_back({m1["Ashok Park Main"], m1["Punjabi Bagh"], 2});
 
-    graphTime.push_back({m1["Punjabi Bagh"], m1["Ashok Park Main"], 1});
+    graphTime.push_back({m1["Punjabi Bagh"], m1["Ashok Park Main"], 2});
 
-    graphTime.push_back({m1["Punjabi Bagh"], m1["Punjabi Bagh West"], 1});
+    graphTime.push_back({m1["Punjabi Bagh"], m1["Punjabi Bagh West"], 2});
 
-    graphTime.push_back({m1["Punjabi Bagh West"], m1["Punjabi Bagh"], 1});
+    graphTime.push_back({m1["Punjabi Bagh West"], m1["Punjabi Bagh"], 2});
 
-    graphTime.push_back({m1["Punjabi Bagh West"], m1["Shivaji Park"], 1});
+    graphTime.push_back({m1["Punjabi Bagh West"], m1["Shivaji Park"], 2});
 
-    graphTime.push_back({m1["Shivaji Park"], m1["Punjabi Bagh West"], 1});
+    graphTime.push_back({m1["Shivaji Park"], m1["Punjabi Bagh West"], 2});
 
-    graphTime.push_back({m1["Shivaji Park"], m1["Madipur"], 1});
+    graphTime.push_back({m1["Shivaji Park"], m1["Madipur"], 2});
 
-    graphTime.push_back({m1["Madipur"], m1["Shivaji Park"], 1});
+    graphTime.push_back({m1["Madipur"], m1["Shivaji Park"], 2});
 
-    graphTime.push_back({m1["Madipur"], m1["Paschim Vihar East"], 1});
+    graphTime.push_back({m1["Madipur"], m1["Paschim Vihar East"], 2});
 
-    graphTime.push_back({m1["Paschim Vihar East"], m1["Madipur"], 1});
+    graphTime.push_back({m1["Paschim Vihar East"], m1["Madipur"], 2});
 
-    graphTime.push_back({m1["Paschim Vihar East"], m1["Paschim Vihar West"], 1});
+    graphTime.push_back({m1["Paschim Vihar East"], m1["Paschim Vihar West"], 2});
 
-    graphTime.push_back({m1["Paschim Vihar West"], m1["Paschim Vihar East"], 1});
+    graphTime.push_back({m1["Paschim Vihar West"], m1["Paschim Vihar East"], 2});
 
-    graphTime.push_back({m1["Paschim Vihar West"], m1["Peeragarhi"], 1});
+    graphTime.push_back({m1["Paschim Vihar West"], m1["Peeragarhi"], 2});
 
-    graphTime.push_back({m1["Peeragarhi"], m1["Paschim Vihar West"], 1});
+    graphTime.push_back({m1["Peeragarhi"], m1["Paschim Vihar West"], 2});
 
-    graphTime.push_back({m1["Peeragarhi"], m1["Udyog Nagar"], 1});
+    graphTime.push_back({m1["Peeragarhi"], m1["Udyog Nagar"], 2});
 
-    graphTime.push_back({m1["Udyog Nagar"], m1["Peeragarhi"], 1});
+    graphTime.push_back({m1["Udyog Nagar"], m1["Peeragarhi"], 2});
 
-    graphTime.push_back({m1["Udyog Nagar"], m1["Maharaja Surajmal Stadium"], 1});
+    graphTime.push_back({m1["Udyog Nagar"], m1["Maharaja Surajmal Stadium"], 2});
 
-    graphTime.push_back({m1["Maharaja Surajmal Stadium"], m1["Udyog Nagar"], 1});
+    graphTime.push_back({m1["Maharaja Surajmal Stadium"], m1["Udyog Nagar"], 2});
 
-    graphTime.push_back({m1["Maharaja Surajmal Stadium"], m1["Nangloi"], 1});
+    graphTime.push_back({m1["Maharaja Surajmal Stadium"], m1["Nangloi"], 2});
 
-    graphTime.push_back({m1["Nangloi"], m1["Maharaja Surajmal Stadium"], 1});
+    graphTime.push_back({m1["Nangloi"], m1["Maharaja Surajmal Stadium"], 2});
 
-    graphTime.push_back({m1["Nangloi"], m1["Nangloi Railway Station"], 1});
+    graphTime.push_back({m1["Nangloi"], m1["Nangloi Railway Station"], 2});
 
-    graphTime.push_back({m1["Nangloi Railway Station"], m1["Nangloi"], 1});
+    graphTime.push_back({m1["Nangloi Railway Station"], m1["Nangloi"], 2});
 
-    graphTime.push_back({m1["Nangloi Railway Station"], m1["Rajdhani Park"], 1});
+    graphTime.push_back({m1["Nangloi Railway Station"], m1["Rajdhani Park"], 2});
 
-    graphTime.push_back({m1["Rajdhani Park"], m1["Nangloi Railway Station"], 1});
+    graphTime.push_back({m1["Rajdhani Park"], m1["Nangloi Railway Station"], 2});
 
-    graphTime.push_back({m1["Rajdhani Park"], m1["Mundka"], 1});
+    graphTime.push_back({m1["Rajdhani Park"], m1["Mundka"], 2});
 
-    graphTime.push_back({m1["Mundka"], m1["Rajdhani Park"], 1});
+    graphTime.push_back({m1["Mundka"], m1["Rajdhani Park"], 2});
 
-    graphTime.push_back({m1["Mundka"], m1["Mundka Industrial Area (MIA)"], 1});
+    graphTime.push_back({m1["Mundka"], m1["Mundka Industrial Area (MIA)"], 2});
 
-    graphTime.push_back({m1["Mundka Industrial Area (MIA)"], m1["Mundka"], 1});
+    graphTime.push_back({m1["Mundka Industrial Area (MIA)"], m1["Mundka"], 2});
 
-    graphTime.push_back({m1["Mundka Industrial Area (MIA)"], m1["Ghevra Metro Station"], 1});
+    graphTime.push_back({m1["Mundka Industrial Area (MIA)"], m1["Ghevra Metro Station"], 3});
 
-    graphTime.push_back({m1["Ghevra Metro Station"], m1["Mundka Industrial Area (MIA)"], 1});
+    graphTime.push_back({m1["Ghevra Metro Station"], m1["Mundka Industrial Area (MIA)"], 3});
 
-    graphTime.push_back({m1["Ghevra Metro Station"], m1["Tikri Kalan"], 1});
+    graphTime.push_back({m1["Ghevra Metro Station"], m1["Tikri Kalan"], 3});
 
-    graphTime.push_back({m1["Tikri Kalan"], m1["Ghevra Metro Station"], 1});
+    graphTime.push_back({m1["Tikri Kalan"], m1["Ghevra Metro Station"], 3});
 
-    graphTime.push_back({m1["Tikri Kalan"], m1["Tikri Border"], 1});
+    graphTime.push_back({m1["Tikri Kalan"], m1["Tikri Border"], 2});
 
-    graphTime.push_back({m1["Tikri Border"], m1["Tikri Kalan"], 1});
+    graphTime.push_back({m1["Tikri Border"], m1["Tikri Kalan"], 2});
 
-    graphTime.push_back({m1["Tikri Border"], m1["Pandit Shree Ram Sharma"], 1});
+    graphTime.push_back({m1["Tikri Border"], m1["Pandit Shree Ram Sharma"], 2});
 
-    graphTime.push_back({m1["Pandit Shree Ram Sharma"], m1["Tikri Border"], 1});
+    graphTime.push_back({m1["Pandit Shree Ram Sharma"], m1["Tikri Border"], 2});
 
-    graphTime.push_back({m1["Pandit Shree Ram Sharma"], m1["Bahadurgarh City"], 1});
+    graphTime.push_back({m1["Pandit Shree Ram Sharma"], m1["Bahadurgarh City"], 2});
 
-    graphTime.push_back({m1["Bahadurgarh City"], m1["Pandit Shree Ram Sharma"], 1});
+    graphTime.push_back({m1["Bahadurgarh City"], m1["Pandit Shree Ram Sharma"], 2});
 
-    graphTime.push_back({m1["Bahadurgarh City"], m1["Brig. Hoshiar Singh"], 1});
+    graphTime.push_back({m1["Bahadurgarh City"], m1["Brig. Hoshiar Singh"], 3});
 
-    graphTime.push_back({m1["Brig. Hoshiar Singh"], m1["Bahadurgarh City"], 1});
+    graphTime.push_back({m1["Brig. Hoshiar Singh"], m1["Bahadurgarh City"], 3});
 }
 
 void timeVioletLine()
