@@ -3181,8 +3181,48 @@ signed main()
         return 0;
     }
 
-    // vector<int> path = shortestPathIntermediateStations(300, m1[src], m1[dst]);
-    vector<int> path = shortestPathTime(300, m1[src], m1[dst]);
+    cout << "Enter your Path's priority, input 1 for minimum Commute Time or 2 for minimum no. of Intermediate stations." << endl;
+
+    int f;
+    cin >> f;
+
+    if (f != 1 && f != 2)
+    {
+        cout << "Invalid Input" << endl;
+        return 0;
+    }
+
+    vector<int> path;
+
+    if (f == 1)
+    {
+        path = shortestPathTime(300, m1[src], m1[dst]);
+    }
+    else
+    {
+        path = shortestPathIntermediateStations(300, m1[src], m1[dst]);
+    }
+
+    if (path[0] == -1)
+    {
+        cout << "No Path Exists" << endl;
+        return 0;
+    }
+
+    cout << "Here is the most optimal path:" << endl;
+
+    for (int i = 0; i < path.size(); i++)
+    {
+        cout << m2[path[i]];
+
+        if (i < path.size() - 1)
+        {
+            cout << " --> ";
+        }
+    }
+    cout << endl;
+
+    return 0;
 
     if (path[0] == -1)
     {
