@@ -76,11 +76,11 @@ vector<int> shortestPathIntermediateStations(int n, int src, int dst)
     return path;
 }
 
-vector<int> shortestPath(int n, int src, int dst)
+vector<int> shortestPathTime(int n, int src, int dst)
 {
 
     vector<pair<int, int>> adj[n + 1];
-    for (auto it : graphDist)
+    for (auto it : graphTime)
     {
         adj[it[0]].push_back({it[1], it[2]});
         adj[it[1]].push_back({it[0], it[2]});
@@ -154,16 +154,39 @@ signed main()
 
     if (m1.find(src) == m1.end() || m1.find(dst) == m1.end())
     {
-        cout << "No Path Exist" << endl;
+        cout << "No Path Exists" << endl;
         return 0;
     }
 
-    vector<int> path = shortestPath(300, m1[src], m1[dst]);
+    cout << "Enter your Path's priority, input 1 for minimum Commute Time or 2 for minimum no. of Intermediate stations." << endl;
+
+    int f;
+    cin >> f;
+
+    if (f != 1 && f != 2)
+    {
+        cout << "Invalid Input" << endl;
+        return 0;
+    }
+
+    vector<int> path;
+
+    if (f == 1)
+    {
+        path = shortestPathTime(300, m1[src], m1[dst]);
+    }
+    else
+    {
+        path = shortestPathIntermediateStations(300, m1[src], m1[dst]);
+    }
 
     if (path[0] == -1)
     {
         cout << "No Path Exists" << endl;
+        return 0;
     }
+
+    cout << "Here is the most optimal path:" << endl;
 
     for (int i = 0; i < path.size(); i++)
     {
